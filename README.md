@@ -1,2 +1,2 @@
 # sublimacion
-movies script like https://sublimacion.uy
+online store script like https://sublimacion.uy
